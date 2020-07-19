@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "binance-api-node": "^0.9.2",
+    "read-last-lines": "^1.7.1"
+  }
+}
